@@ -1,0 +1,23 @@
+{
+    "username": "hunter205",
+    "bdd": "22",
+    "password": "password",
+    "socketport": "10000",
+    "firstname": "Hunter",
+    "notify_email": "noreply@ossn.com",
+    "userdata": "/var/www/ossndatadir/",
+    "bdm": "03",
+    "gender": "Male",
+    "owner_email": "owner@ossn.com",
+    "site": "DMSN",
+    "dbname": "ossn",
+    "server": "ec2-54-245-35-20.us-west-2.compute.amazonaws.com",
+    "url": "http://ec2-34-209-125-51.us-west-2.compute.amazonaws.com/",
+    "host": "localhost",
+    "email": "hunter.hsieh@sjsu.edu",
+    "lastname": "Hsieh",
+    "dbuser": "root",
+    "dbpassword": "root",
+    "bdy": "1992",
+    "port": "3306"
+}
